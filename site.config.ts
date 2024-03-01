@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Li's TechSphere',
+  name: 'Li TechSphere',
   domain: 'https://lixiaolong.tech/',
   author: 'Li Xiaolong',
 
